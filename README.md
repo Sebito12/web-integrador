@@ -17,10 +17,10 @@ La pagina va a estar orientada en información general de las plantas tipo sucul
 
 ### 3- Presentación de las ideas
 
-1. Presentación: Imagen principal del establecimiento - Pantalla completa - 
+1. Presentación: Imagen principal - Pantalla completa - 
 2. Biblioteca Digital: diseño en tarjetas.
 3. Productos y servicios: pantalla dividida productos y servicios - Diseño en tarjetas 
-4. Contato:
+4. Contato: iconos de las redes sociales - formulario para el envio de correos a través de la pagina - mapa con la ubicación.
 
 
 ## Diseño UI
