@@ -20,9 +20,18 @@ La pagina va a estar orientada en información general de las plantas tipo sucul
 1. Presentación: Imagen principal - Pantalla completa - 
 2. Biblioteca Digital: diseño en tarjetas.
 3. Productos y servicios: pantalla dividida productos y servicios - Diseño en tarjetas 
-4. Contato: iconos de las redes sociales - formulario para el envio de correos a través de la pagina - mapa con la ubicación.
+4. Contacto: iconos de las redes sociales - formulario para el envio de correos a través de la pagina - mapa con la ubicación.
 
 
 ## Diseño UI
 
 ### 1- Fonts
+
+### 2- Color tables
+
+1. AEDE94
+2. 7DB95C
+3. 549431
+4. 336F13
+5. 1A4A00
+
