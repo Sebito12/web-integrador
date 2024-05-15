@@ -26,7 +26,7 @@ La pagina va a estar orientada en información general de las plantas tipo sucul
 
 ### 4- Wireframe
 
-Pagina1: Pagina Principal
+Pagina1: Pagina Principal (correjido)
 
 ![pagina principal.](./wireframe/Pagprinc.png)
 
