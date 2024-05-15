@@ -28,7 +28,7 @@ La pagina va a estar orientada en información general de las plantas tipo sucul
 
 Pagina1: Pagina Principal (correjido)
 
-![Pagina Principal.](./wireframe/Pagprinc.png)
+![Pagina Principal.](./wireframe/PagPrinc.png)
 
 Pagina2: Sección 1
 
