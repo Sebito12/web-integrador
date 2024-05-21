@@ -52,12 +52,12 @@ https://fonts.google.com/share?selection.family=Comic+Neue:ital,wght@0,300;0,400
 
 1. Imagen1: Logo
 
-![logo.](./imagenes/LOGO.png)
+![logo.](./img/LOGO.png)
 
 2. Imagen2: Fondo 1 Pag. Princ.
 
-![F1.](./imagenes/fondo%20pantalla%20principal.jpg)
+![F1.](./img/fondo%20pantalla%20principal.jpg)
 
 3. Imagen3: Fondo 2 Pag. Princ.
 
-![F2.](./imagenes/fondo%202%20pantalla%20principal.jpg)
+![F2.](./img/fondo%202%20pantalla%20principal.jpg)
