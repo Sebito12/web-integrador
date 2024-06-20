@@ -5,6 +5,8 @@ body {
     padding: 0px;
 }
 
+/* Estilos barra navegación */
+
 header {
     background-color: #549431;
     margin: 50px;
@@ -68,6 +70,16 @@ nav>ul>li>a {
     font-size: 1.5em;
 }
 
+nav>ul>li>form>input {
+    min-height: 1.5em;
+}
+
+nav>ul>li>form>button {
+    min-height: 1.5em;
+}
+
+
+/* Estilos principal */
 
 h1 {
     color: #AEDE94;
@@ -94,6 +106,15 @@ h1 {
     align-items: end;
     padding: 50px;
 }
+
+#section1 {
+    background-image: url(../img/fondo-s1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+/* Estilos sección biblioteca */
 
 section h3 {
     background-color: #549431;
@@ -144,11 +165,15 @@ main {
 
 #biblioteca-digital>div.container>div.card>img {
     margin: 15px;
+    height: 170px;
 }
 
 #biblioteca-digital>div.container>a {
     text-align: right;
 }
+
+/* Estlios sección productos */
+
 
 #productos>div.container {
     min-width: 100%;
@@ -175,13 +200,15 @@ main {
 }
 
 #productos>div.container>div.card {
-    margin: 15px;
+    /* margin: 15px 30px; */
+    margin: auto;
     width: 80%;
     max-width: 220px;
 }
 
 #productos>div.container>div.card>img {
     width: 100%;
+    max-height: 200px;
 }
 
 #productos>div.container>a {
@@ -190,42 +217,79 @@ main {
     text-align: right;
 }
 
+
+/* Estilos sección servicios */
+
 #servicios {
-    background-color: #1A4A00;
+    /* background-color: #1A4A00; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 55vh;
 }
 
-#servicios>a {
+#servicios>div>a {
     color: #AEDE94;
+    position: absolute;
+    top: 220vh;
+    right: 0%;
 }
 
 #servicios>div.container {
     display: flex;
     flex-direction: row;
+    min-width: 100%
 }
 
 #servicios>div.container>div.card {
     flex-grow: 2;
     margin: 10px;
+    min-width: 40%
 }
 
 #servicios>div.container>div.card>img {
     width: 100%;
     max-height: 35vh;
+    
 }
 
-
+#servicios>a {
+    align-self: flex-end;
+}
 
 div.container {
     background-color: #1A4A00;
 }
 
+/* Estilos sección jardines */
+
 h2 {
     color: #AEDE94;
+    text-decoration: underline;
+    font-style: italic;
+    font-size: 2em;
+    text-align: center;
+}
+
+#jardines {
+    background-image: url(../img/fondo2-index.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
 }
 
 #jardines img {
     border: 2px solid #AEDE94;
+    box-sizing: border-box;
+    width: 30%;
+    margin: 20px;
+    height: 400px;
 }
+
+
 
 footer {
     border: 2px solid black;
@@ -252,18 +316,7 @@ div.description {
     color: #AEDE94;
 }
 
-#jardines {
-    background-image: url(../img/fondo2-index.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    box-sizing: border-box;
-}
 
-#section1 {
-    background-image: url(../img/fondo-s1.jpeg);
-    background-repeat: no-repeat;
-    background-size: cover;
-}
 
 footer {
     display: flex;
@@ -294,4 +347,12 @@ div.social-media>div>div {
 footer>a>img {
     width: 100px;
     height: 100px;
+}
+
+footer>a {
+    color: #AEDE94;
+    text-decoration: none;
+    font-size: 1em;
+    font-style: italic;
+    font-weight: bold;
 }
